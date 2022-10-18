@@ -1,0 +1,30 @@
+button{
+    margin-left:500px;
+    padding-left:500;
+    
+}
+
+#botao-escapamento{
+    margin:100px;
+    border-style: groove;
+    width: 100px;;
+
+    /*Atalho: Superior>Direita>Inferior>Esquerda */
+}
+
+#botao-border{
+
+    border-style:solid;
+    border-width:300px;
+    border-color:brown;
+    border-style:double;
+    
+} 
+
+#botao-border:hover{
+    border-style:solid;
+    border-color:brown;
+    border-width:300px;
+    border-image:url(ela\ ela.jpg); 
+
+}

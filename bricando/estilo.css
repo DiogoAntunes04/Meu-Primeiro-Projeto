@@ -1,0 +1,46 @@
+u89j66k9x;~~]~j,lll/~hhhjih1{
+    
+    text-align: center;
+    font-size:50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+      
+}
+
+body{
+    background-color: red;
+    
+    border-style: none;
+}
+
+#botao-border{
+    
+    border-width:220px;
+    border-style:solid;
+    border-color:white;
+    
+   margin:0 auto;/
+   font-size:20px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   display: flex; justify-content: center;
+    
+}
+#tit {
+    color: #000;
+    -webkit-text-stroke: 0.3    px #FFF;
+     text-stroke: 0px #FFF;
+}
+
+#botao-border:hover{
+
+    border-width:220px;
+    border-style: solid;
+    border-color:white;
+    border-radius:100px;
+    margin:0 auto;
+    border-image:url (AFONSINHA.jfif);
+    height: 543px;
+    width: 458px;
+    
+    
+
+}

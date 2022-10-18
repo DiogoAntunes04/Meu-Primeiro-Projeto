@@ -1,0 +1,22 @@
+.color{
+    color:red
+}
+
+
+#h1-color{
+    color:greenyellow;
+}
+
+#h1-font{
+    font-family:fantasy;
+    text-align:center;
+}
+body{
+    background-color:#eeda95;
+}
+img{
+   width:160px;
+   margin:auto;
+   display:block;
+   
+}
